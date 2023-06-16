@@ -15,12 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi! if you are reading this, you are probably interested on more information about me.
-
-I am a student of Actuarial Science at UNAM (Universidad Nacional Autónoma de México/National Autonomous University of Mexico). I have a keen interest in the application of data science techniques, machine learning, and mathematical models in decision-making. I am skilled in programming languages such as Python and R, and I am comfortable adapting to new software and operating systems, with a preference for Unix-based systems.
-
-### Where to find me
-
--[Instagram](https://instagram.com/jst_brann)
-
--e-mail: brandondz2002@gmail.com
+# 💻 Hi!, i'm Brandon Delgadillo
+### Actuarial Science student and data developer.
