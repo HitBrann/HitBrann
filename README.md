@@ -44,15 +44,15 @@ During my free time, I enjoy exploring exciting data analysis projects, particip
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
-[ 	![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)]()
+[![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)]()
 </br>
 etcetera...
 
 ## Some communities i like
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]()
-[![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)]()
-[![Reddit_Unixporn](https://img.shields.io/badge/reddit.com/r/unixporn-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)]()
-[![Reddit_Archlinux](https://img.shields.io/badge/reddit.com/r/archlinux-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)]()
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
+[![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://www.xda-developers.com/)
+[![Reddit_Unixporn](https://img.shields.io/badge/reddit.com/r/unixporn-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/r/unixporn)
+[![Reddit_Archlinux](https://img.shields.io/badge/reddit.com/r/archlinux-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/r/archlinux/)
 
 ## Contact information
 
