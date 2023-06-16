@@ -48,12 +48,6 @@ During my free time, I enjoy exploring exciting data analysis projects, particip
 </br>
 etcetera...
 
-## Some communities i like
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
-[![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://www.xda-developers.com/)
-[![Reddit_Unixporn](https://img.shields.io/badge/reddit.com/r/unixporn-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/r/unixporn)
-[![Reddit_Archlinux](https://img.shields.io/badge/reddit.com/r/archlinux-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/r/archlinux/)
-
 ## Contact information
 
 [![Email](https://img.shields.io/badge/brandondz2002@ciencias.unam.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:brandondz2002@ciencias.unam.mx)
