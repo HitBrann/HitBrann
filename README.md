@@ -22,4 +22,5 @@ I am a student of Actuarial Science at UNAM (Universidad Nacional Autónoma de M
 ### Where to find me
 
 -[Instagram](https://instagram.com/jst_brann)
+
 -e-mail: brandondz2002@gmail.com
