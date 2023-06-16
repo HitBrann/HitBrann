@@ -50,5 +50,5 @@ etcetera...
 
 ## Contact information
 
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:brandondz2002@ciencias.unam.mx)
+[![Email](https://img.shields.io/badge/brandondz2002@ciencias.unam.mx-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:brandondz2002@ciencias.unam.mx)
 [![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jst_brann)
