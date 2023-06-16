@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Fourth-semester student pursuing a degree in Actuarial Science at Universidad Nacional Autónoma de México. My true passion lies in the world of data analysis and its application in decision-making.
 
-Throughout my academic journey, I have gained a strong foundation in statistical analysis and data manipulation using R. I have specialized in statistical manipulation techniques, web scraping, and machine learning. These skills have enabled me to explore and extract valuable insights from various web data sources, as well as develop models to predict and make data-driven decisions.
+Throughout my academic journey, I have gained a strong foundation in statistical analysis and data manipulation using R and Python. I have specialized in statistical manipulation techniques, web scraping, and machine learning. These skills have enabled me to explore and extract valuable insights from various web data sources, as well as develop models to predict and make data-driven decisions.
 
 In addition, I have experience in database management and process automation. My aim is to leverage these skills to streamline and expedite repetitive tasks, allowing for a more efficient focus on analysis and generating insights.
 
