@@ -51,5 +51,3 @@ etcetera...
 ## Contact information
 
 [![Email](https://img.shields.io/badge/brandondz2002@ciencias.unam.mx-personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:brandondz2002@ciencias.unam.mx)
-
-[![Instagram](https://img.shields.io/badge/Instagram-@jst_brann-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jst_brann)
